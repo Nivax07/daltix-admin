@@ -21,7 +21,6 @@
 * [Chart.js](http://www.chartjs.org/)
 * [Vue Datepicker](https://github.com/charliekassel/vuejs-datepicker)
 * [NoUiSlider](https://refreshless.com/nouislider/)
-* [Quill](https://quilljs.com/)
 * [Material Icons](http://material.io/icons)
 * [FontAwesome Icons](http://fontawesome.io)
 

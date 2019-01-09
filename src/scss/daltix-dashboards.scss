@@ -1,18 +1,9 @@
-/*
- * daltix Dashboard Lite UI Kit v1.0.0
- * Project URL: https://designrevision.com/downloads/daltix-dashboard-lite
- * Based on: daltix UI Kit v2.0.3 (https://designrevision.com/downloads/daltix)
- * Based on: Bootstrap v4.1.1 (https://getbootstrap.com)
- * Copyright 2017-* DesignRevision (https://designrevision.com)
- * Copyright 2017-* Catalin Vasile (contact@catalin.me)
- * License: MIT
- */
 
 // daltix variables overrides.
 @import "overrides";
 
 // Base daltix UI Kit
-@import "../../node_modules/daltix-ui/src/scss/daltix.scss";
+@import "../../node_modules/daltix-ui/src/scss/shards.scss";
 
 /* daltix Dashboards Lite Styles */
 

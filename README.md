@@ -32,3 +32,4 @@
 
 Please check out the [CHANGELOG](CHANGELOG.md).
 # daltix-admin
+# daltix-vuejs-admin

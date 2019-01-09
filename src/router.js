@@ -17,20 +17,22 @@ export default new Router({
   linkActiveClass: 'active',
   linkExactActiveClass: 'exact-active',
   scrollBehavior() {
-    return { x: 0, y: 0 };
+    return {
+      x: 0,
+      y: 0
+    };
   },
-  routes: [
-    {
+  routes: [{
       path: '/',
       redirect: {
-          name: "overview",
-      }
-  },
-  {
-    path: '/overview',
-    name: 'overview',
-    component: Overview,
-  },
+        name: 'overview',
+      },
+    },
+    {
+      path: '/overview',
+      name: 'overview',
+      component: Overview,
+    },
     {
       path: '/user-profile',
       name: 'user-profile',

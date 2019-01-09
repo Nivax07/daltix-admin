@@ -1,6 +1,6 @@
 /* eslint-disable */
 import Vue from 'vue';
-import DaltixVue from 'daltix-vue';
+import DaltixVue from 'shards-vue';
 
 // Styles
 import 'bootstrap/dist/css/bootstrap.css';

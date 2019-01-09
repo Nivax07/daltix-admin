@@ -6988,7 +6988,7 @@ shallow-clone@^1.0.0:
     kind-of "^5.0.0"
     mixin-object "^2.0.1"
 
-daltix-ui@^2.1.0:
+shards-ui@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/shards-ui/-/shards-ui-2.1.0.tgz#d38bb54d81c8466ae6aef9e96f2f94a9ce4d9408"
   dependencies:
@@ -6997,7 +6997,7 @@ daltix-ui@^2.1.0:
     bundlesize "^0.17.0"
     nouislider "^11.1.0"
 
-daltix-vue@^1.0.4:
+shards-vue@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/shards-vue/-/shards-vue-1.0.4.tgz#f51eaf0290c3d8978a53fb89c785857804472bb2"
   dependencies:

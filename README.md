@@ -12,17 +12,15 @@
 * All templates are located inside `src/views` and most of them are self-contained.
 * There's only one single layout defined (Default) inside `src/layouts`, however the current structure provides an easy way of extending the UI kit.
 * The `src/components` directory hosts all template-specific subcomponents in their own subdirectory.
-* Almost all components have their styles isolated in SFC, however, some global styles are also placed inside `src/assets/scss` next to daltix Dashboard Lite's base styles.
+* Almost all components have their styles isolated in SFC, however, some global styles are also placed inside `src/assets/scss` next to Daltix Dashboard base styles.
 * The `src/utils` directory contains generic Chart.js utilities.
 
 
 ### Built using
 
-* [daltix Vue](https://designrevision.com/downloads/daltix-vue)
 * [Chart.js](http://www.chartjs.org/)
 * [Vue Datepicker](https://github.com/charliekassel/vuejs-datepicker)
 * [NoUiSlider](https://refreshless.com/nouislider/)
-* [Quill](https://quilljs.com/)
 * [Material Icons](http://material.io/icons)
 * [FontAwesome Icons](http://fontawesome.io)
 

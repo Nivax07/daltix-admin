@@ -3,6 +3,7 @@
 
 * Install dependencies by running `yarn` or `npm install`.
 * Run `yarn serve` or `npm run serve` to start the local development server.
+* If it gives you any warning, run `yarn serve --fix` or `npm run serve --fix`, Vue.js loves good identation.
 * 😎 **That's it!** You're ready.
 
 <br />

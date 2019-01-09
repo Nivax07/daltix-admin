@@ -12,8 +12,8 @@
     "bootstrap": "^4.1.3",
     "chart.js": "^2.7.2",
     "quill": "^1.3.6",
-    "daltix-ui": "^2.1.0",
-    "daltix-vue": "^1.0.4",
+    "shards-ui": "^2.1.0",
+    "shards-vue": "^1.0.4",
     "vue": "^2.5.17",
     "vue-csv-import": "^2.3.3",
     "vue-router": "^3.0.1"
